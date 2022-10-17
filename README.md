@@ -23,7 +23,7 @@ Enthusiastic backend developer eager  to contribute team through hard work. Moti
 <div>
 
   ## 📫 &nbsp;My Contacts
-  [![LinkedIn Badge](https://img.shields.io/badge/-Sohidjonov_Shahriyor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javokhirbek-isroilov-688505200//)](https://www.linkedin.com/in/javokhirbek-isroilov-688505200/)&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-Javokhir_Isroilov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javokhirbek-isroilov-688505200//)](https://www.linkedin.com/in/javokhirbek-isroilov-688505200/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-javokhirbekisroilov166@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:javokhirbekisroilov166@gmail.com)&nbsp;
 
 </div>
