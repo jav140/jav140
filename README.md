@@ -2,6 +2,13 @@
 
 Enthusiastic backend developer eager  to contribute team through hard work. Motivated to learn new things and grow in backend developing.
 
+### About me
+- Full name : Javokhir Isroilov
+- Education : Tashkent university of information technologies'
+- Major : Cyber security
+- Language : English(B2), Russian(A2), Uzbek(Native)
+- 
+
 ### Skills
 
 <p>
